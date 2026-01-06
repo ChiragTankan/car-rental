@@ -1,11 +1,58 @@
-# Car Rental 
+<div align="center">
 
-Welcome to the Car Rental  project! This application allows users to rent cars easily and efficiently. It provides a user-friendly interface for both customers and administrators to manage car rentals.
+<!-- Modern Banner -->
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Car%20Rental%20Solutions&fontSize=60&animation=fadeIn" width="100%" />
 
-## This project is now OFFICIALLY accepted for
+<br />
 
-- ![project-image1](socialwinterofcode_cover.jpg)
+<!-- Program Acceptance Badge -->
+<div style="background: #fdf2f2; border: 1px solid #ef4444; border-radius: 8px; padding: 10px; width: 80%;">
+  <h4 style="color: #b91c1c; margin: 0;">❄️ Official Participant: SWOC 2025</h4>
+  <p style="color: #7f1d1d; margin: 5px 0 0 0;">Building the future of open-source mobility.</p>
+</div>
 
+<br />
+
+<!-- Dynamic Tagline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Premium+Fleet+Management;Seamless+Booking+Experience;Admin+Dashboard+Control;Full-Stack+MERN+Solution" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <strong>A high-performance car rental engine designed for scalability and user convenience. Renting a car is now just a few clicks away.</strong>
+</p>
+
+<!-- Technology Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-JWT-black?style=for-the-badge&logo=json-web-tokens" />
+</p>
+
+</div>
+
+---
+
+### 📸 Preview Gallery
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center"><img src="carrental1.png" width="300px" style="border-radius:10px;" /><br/><sub>Landing Page</sub></td>
+      <td align="center"><img src="carrental2.png" width="300px" style="border-radius:10px;" /><br/><sub>Fleet Selection</sub></td>
+      <td align="center"><img src="carrental3.png" width="300px" style="border-radius:10px;" /><br/><sub>Booking Portal</sub></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🚀 Quick Start Guide
+
+#### 1. Clone the Fleet
+```bash
+git clone https://github.com/saurabh-dev-vns/car-rental.git
+cd car-rental
 ## Table of Contents
 
 - [Features](#features)
